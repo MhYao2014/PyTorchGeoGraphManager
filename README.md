@@ -1,0 +1,2 @@
+# PyTorchGeoGraphManager
+基于pytorch_geometric的图数据管理类.以后转到neo4j一类的工具.
